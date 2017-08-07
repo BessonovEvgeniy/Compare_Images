@@ -38,7 +38,7 @@ public class ImageController {
                 window.add(plot);
                 window.setVisible(true);
                 window.setSize(985, 701);
-                plot.drawRect(img.getDifferenceImageBlocks());
+//                plot.drawRect(img.getDifferenceImageBlocks());
 
                 plot.repaint();
 
